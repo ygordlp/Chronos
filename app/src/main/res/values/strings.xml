@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Chronos</string>
+
+    <string name="lbl_settings">Configurações</string>
+
+    <string name="lbl_checkin">Ponto</string>
+
+    <string name="lbl_tasks">Tarefas</string>
+
+    <string name="lbl_report">Relatório</string>
+
+    <string name="lbl_about">Sobre</string>
+
+    <string name="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam varius volutpat ornare. Donec pharetra lectus at finibus viverra. Fusce posuere varius augue vel bibendum. Vivamus velit ligula, semper a purus ut, consequat dictum odio. Nam commodo tincidunt consequat. Etiam egestas tortor ac augue pulvinar condimentum. Integer id interdum eros.\n
+    Nunc vel erat quis odio malesuada maximus sit amet in lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras vel neque rutrum, ultricies augue eu, rhoncus tortor. Donec mauris nisl, porttitor vel semper vitae, dapibus vel nulla. Maecenas sapien ante, euismod at lacus a, placerat mattis purus. Maecenas ac dignissim augue, in rutrum justo. Sed finibus eros sit amet sapien eleifend vulputate. Nullam sed sem fermentum, euismod tellus vehicula, tempus orci.\n
+    Duis varius malesuada arcu rutrum fermentum. Nunc semper lobortis vulputate. Donec viverra efficitur tellus, in dapibus eros sodales quis. Proin in purus laoreet, malesuada arcu eu, lacinia urna. Sed nibh orci, maximus non volutpat non, dapibus ac mauris. Vestibulum at mi finibus, mollis ex posuere, eleifend nisi. Quisque dolor lectus, dictum aliquet sem malesuada, egestas convallis est.
+    </string>
+    <string name="sub_about">Sobre a aplicação</string>
+    <string name="lbl_check">Bater Ponto</string>
+    <string name="lbl_in">Entrada:</string>
+    <string name="lbl_out">Saída:</string>
+    <string name="lbl_time_not_set">-</string>
+    <string name="lbl_worked_time">Horas trabalhadas:</string>
+    <string name="lbl_out_preview">Previsão de Saída:</string>
+    <string name="lbl_ok">OK</string>
+    <string name="lbl_cancel">Cancelar</string>
+    <string name="lbl_back_date"><![CDATA[<<]]></string>
+    <string name="msg_unable_to_record">Não foi possível gravar os dados.</string>
+    <string name="msg_task_already_exist">A tarefa já existe.</string>
+    <string name="msg_all_time_set">O último horário já foi batido.</string>
+    <string name="msg_greater_time">O horário selectionado é anterior ao último.</string>
+    <string name="lbl_task_name">Nome da tarefa</string>
+    <string name="daily_journey">Jornada Diária</string>
+    <string name="daily_journey_4">4 horas</string>
+    <string name="daily_journey_6">6 horas</string>
+    <string name="daily_journey_8">8 horas</string>
+    <string name="msg_daily_journey">Sua jornada de trabalho será de %1$s.</string>
+    <string name="msg_task_added">A tarefa adicionada.</string>
+    <string name="msg_task_updated">A tarefa alterada.</string>
+    <string name="msg_start_day">Você deve bater o ponto antes de iniciar uma tarefa.</string>
+    <string name="msg_open_time">Você possui um ponto em aberto de outro dia.</string>
+</resources>
